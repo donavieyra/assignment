@@ -1,3 +1,4 @@
+#include <iostream>
 double taylorSeries(double x, int n) {
     double result = 1.0;
     double term = 1.0;
